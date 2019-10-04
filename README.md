@@ -1,4 +1,4 @@
-# Getting Started
+# Links
 
 ### Helm
 https://helm.sh/docs/using_helm/#quickstart
